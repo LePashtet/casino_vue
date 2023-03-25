@@ -1,0 +1,244 @@
+{
+  "header": {
+    "home": "Главная",
+    "service": "Наши сервисы",
+    "owner": "Для владельцев сайтов",
+    "list": "Список сайтов",
+    "stats": "Статистика",
+    "news": "Новости",
+    "signin": "Войти на сайт"
+  },
+  "footer": {
+    "menu": {
+      "faq": "Вопрос/ответ (ЧАВО)",
+      "terms": "Правила и условия",
+      "home": "Главная",
+      "privacy": "Конфиденциальность",
+      "links": "Полезные ссылки"
+    },
+    "rights": "Все права защищены."
+  },
+  "menu":{
+    "lobby": "Лобби",
+    "games": "Игры",
+    "earning": "Заработок",
+    "exchange": "Биржа",
+    "premium": "Премиум",
+    "affiliates": "Рефералы",
+    "statistics": "Статистика",
+    "owner": "Для владельцев сайтов",
+    "settings": "Настройки",
+    "help": "Помощь"
+  },
+  "models": {
+    "auth": {
+      "login": "Логин",
+      "email": "Почта",
+      "password": "Пароль",
+      "signupAsk": "Еще не зарегистрированы?",
+      "signup": "Зарегистрироваться",
+      "forgot": "Забыли логин/пароль?",
+      "registration": "Регистрация",
+      "as": "Вошли как",
+      "logout": "Выйти из аккаунта",
+      "ofAcc": "of account?",
+      "logOn": "Захожу в аккаунт"
+    }
+  },
+  "siteList": {
+    "title": "Список сайтов",
+    "table": {
+      "name": "Название",
+      "added": "Дата добавления",
+      "reward": "Награда",
+      "timer": "Таймер",
+      "paid": "Выплачено",
+      "today": "сегодня",
+      "week": "за неделю",
+      "total": "Всего",
+      "user": "Пользователи",
+      "health": "Здоровье сайта",
+      "rating": "Рейтинг",
+      "address": "Адрес",
+      "dateAdd": "Дата добавления",
+      "siteRate": "Рейтинг сайта",
+      "userRate": "рейтинги пользователей",
+      "reviews": "Обзоры",
+      "comment": "Оставьте комментарий",
+      "moderation": "Обзор на модерации"
+    }
+  },
+  "news": {
+    "title": "Новости",
+    "more": "Читать дальше"
+  },
+  "chat": {
+    "input": "Напишите здесь...",
+    "adv": "РЕКЛАМА ОТ",
+    "buy": "Купить <span>РЕКЛАМУ в чате</span>",
+    "billing": "Выберите способ оплаты:",
+    "pay": "Оплатить"
+  },
+  "lobby": {
+    "title": "Стена пользователя",
+    "accDet": "Детали Аккаунта",
+    "balanceDet": "Детали баланса"
+  },
+  "games": {
+    "title": "Игры",
+    "players": "Количество игроков",
+    "jackpot": "Джекпот",
+    "bankroll": "Банкролл",
+    "list": "Список игр",
+    "coinTitle": "Орел или решка!",
+    "coinSub": "Подбрось монетку и выиграй!",
+    "rpsTitle": "Камень ножницы бумага!",
+    "rpsSub": "Пожми руку и стань победителем!"
+  },
+  "earning": {
+    "title": "Заработок",
+    "menu": {
+      "paidAds": "Платные ссылки",
+      "offer": "Задания",
+      "faucets": "Краны , бонусы"
+    },
+    "paidAds": {
+      "claim": "Ручной сбор",
+      "manage": "Управлять рекламой",
+      "view": "Просмотр",
+      "adv": "Рекламные обьявления",
+      "campaigns": "Рекламные кампании",
+      "newAdv": "Новое обьявление"
+    }
+  },
+  "exchange": {
+    "title": "Биржа",
+    "balance": "Баланс",
+    "history": "История",
+    "noHistory": "Транзакции не найдены"
+  },
+  "premium": {
+    "title": "премиум",
+    "subtitle": "<p class=\"bold\"><span class=\"color-red\">Get Access</span> To Large number of <br><span class=\"color-red\">discounts</span> on services, <span class=\"color-red\">promotions, and prizes!</span>",
+    "daily": "День Премиума",
+    "weekly": "Неделя Премиума",
+    "monthly": "Месяц Премиума",
+    "yearly": "Год Премиума",
+    "save": "Экономь",
+    "day": "за день",
+    "week": "за неделю",
+    "month": "за месяц",
+    "year": "за год",
+    "total": "Общая сумма",
+    "number": "Количество подписок",
+    "payment": "Выберите способ оплаты",
+    "youBuy": "Вы приобретаете <span data-v-1aefa0bd=\"\" class=\"gradient-color\"><b data-v-1aefa0bd=\"\">Премиум аккаунт</b></span>",
+    "valid": "действителен до",
+    "buy": "Купить Премиум!",
+    "premGive": "Какие преимущества <span data-v-ec09a2b6=\"\" class=\"color-red\">Премиум аккаунт</span> даёт Вам?",
+    "premGiveSub": "Премиум аккаунт предоставляет Вам множество скидок на услуги , снижает комиссии  и повышает выплаты за действия!",
+    "give1": "Снижает комиссию на бирже <b data-v-ec09a2b6=\"\" class=\"color-red\">-2%</b>",
+    "give2": "<span class=\"color-red\">Повышает очки опыта </span>получаемые за действия на сайте",
+    "give3": "Снижает <b class=\"color-red\">минимальную </b> сумму для выплаты <span class=\"color-red\">для Вашего аккаунта</span>",
+    "give4": "Иконка <b class=\"color-red\">в чате</b> <b >показывающая что Вы Премиум пользователь</b>",
+    "give5": "<span class=\"color-red\">Снижает комиссию </span> в играх.",
+    "give6": "<span class=\"color-red\">Предоставляет скидки на заказ рекламы</span> в разделах кликовая реклама и задания ",
+    "give7": "<span class=\"color-red\">Улучшенная страница</span> Списка сайтов для заработка с возможностью поиска , сортировкой и таймером ",
+    "give8": "<span class=\"color-red\">Предоставляет скидки </span> на заказ рекламы <b class=\"color-red\">в чате</b>",
+    "give9": "<span class=\"color-red\">Увеличивает цену</span> за просмотр рекламы в разделе заработка на кликовой рекламе",
+    "give10": "<span class=\"color-red\">Ваши обзоры сайтов</span> будут выделены как Премиум.",
+    "give11": "<span class=\"color-red\">Снижает минимальную сумму </span>  чаевых которые можно переслать другим пользователям",
+    "give12": "<span class=\"color-red\">Предоставляет возможность отключения рекламы</span> на сайте",
+    "give13": "<span class=\"color-red\">Увеличивает сумму выплат</span> за ежедневные бонусы."
+  },
+  "affiliates": {
+    "title": "Рефералы",
+    "campaign": "Рекламные кампании",
+    "menu": {
+      "dashboard": "Стена",
+      "balances": "Балансы",
+      "campaigns": "Рекламные кампании",
+      "banners": "Рекламные материалы",
+      "logs": "Логи",
+      "users": "Пользователи",
+      "hits": "Переходы"
+    },
+    "campaigns": {
+      "title": "Рекламные кампании",
+      "new": "Новая кампания",
+      "link": "Ссылка",
+      "create": "Дата создания"
+    },
+    "banners": {
+      "title": "Реферальные ссылки",
+      "default": "по умолчанию",
+      "links": "Ссылки",
+      "banners": "Рекламные материалы"
+    },
+    "logs": {
+      "title": "Логи",
+      "amount": "Сумма",
+      "pay": "Выплачено",
+      "percent": "Процент",
+      "noLogs": "Логи не найдены"
+    },
+    "users": {
+      "title": "Рефералы",
+      "noUsers": "Пользователи не найдены"
+    },
+    "hits": {
+      "title": "Переходы по ссылке",
+      "domain": "Откуда пришел",
+      "country": "Страна"
+    },
+    "statistics": {
+      "title": "статистика",
+      "menu": {
+        "withdrawal": "Выплаты",
+        "deposit": "Депозиты",
+        "premium": "Премиум",
+        "paidAds": "Оплачиваемая реклама"
+      }
+    },
+    "siteowner": {
+      "title": "Владелец сайта",
+      "type": "Выберите тип сервиса/сайта",
+      "service1": {
+        "title": "Создать кран на Хостобит",
+        "subtitle": "самый легкий и быстрый способ создать кран"
+      },
+      "service2": {
+        "title": "Cоздать кран",
+        "subtitle": "создать кран используя любой другой скрипт кранов , кроме Хостобит",
+        "claim": "Таймер сбора в секундах",
+        "select": "Выбрать валюту",
+        "reward": "Награда",
+        "listing": "Опубликовать на Фрибитми",
+        "title2": "Как это работает?",
+        "subtitle2": "<div  class=\"form-desc-text\">Здесь вы можете создать кран , используя любой понравившийся вам скрипт.</div><div  class=\"form-desc-text\">Следуйте пошаговой инструкции:</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Введите название крана , адрес УРЛ крана и таймер сбора награды в секундах</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Выберите валюту для вашего крана , введите размер награды за сбор ( пожалуйста , вводите минимально доступный размер награды в начале если ваш кран поддерживает множественные награды за сбор и/или джекпоты ) и выберите , хотите ли Вы чтобы Ваш кран отображался в списке сайтов на Фрибитме или нет</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Нажмите кнопку Создать  и Вам будет предоставлен АПИ ключ , который  можно использовать чтобы подключить Ваш кран к Фрибитми.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Готово!Теперь можно вернуться в раздел Владелец сайта и пополнять/снимать средства , проверять статистику , редактировать или архивировать Ваш кран.</div><div  class=\"form-desc-text\">Пожалуйста , внимательно прочтите правила и инструкции на правой стороне страницы. Несоблюдение правил размещения может привести к запрету вашего крана и его снятия со списка кранов на сайте.</div>",
+        "title3": "Rules",
+        "subtitle3": "<div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No malicious websites.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No malware, viruses, spyware or ransomware.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No unsolicited or automated downloads.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No browser locking scripts or other attempts to hijack the browser.</div><div  class=\"form-desc-text\"><strong >Warning!</strong> We reserve the right to refuse service at our discretion. If we detect a malicious code or attempts to defraud the users, your account could be banned with any funds on it forfeit.</div>"
+      },
+      "service3": {
+        "title": "Создать другой сервис",
+        "subtitle": "Если Вы хотите использовать наш АПИ ( и Ваш сайт НЕ кран ) , эта опция для Вас.",
+        "subtitle2": "<div class=\"form-desc-text\">Как это работает?</div><div class=\"form-desc-text\">Здесь Вы можете подключить наше АПИ к сервису/сайту на выбор.</div><div class=\"form-desc-text\">Хорошим примером может послужить игра , банерная сеть или любой другой сайт , который выплачивает микротранзакции в криптовалюте большому количеству пользователей.</div><div class=\"form-desc-text\">Чтобы подключить наше АПИ и начать использовать наш хаб как сервис платежей , следуйте пошаговой инструкции:</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Введите название сайта ( только Вы будете видеть его ) и ссылку УРЛ сайта.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Нажмите кнопку создать и Вам будет предоставлен АПИ ключ , который можно использовать чтобы подключить Ваш сайт к Фрибитми.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Готово!Теперь можно вернуться в раздел Владелец сайта и пополнять/снимать средства , проверять статистику , редактировать или архивировать Ваш сервис/сайт.</div><div class=\"form-desc-text\">Пожалуйста , внимательно прочтите правила и инструкции на правой стороне страницы. Несоблюдение правил размещения может привести к запрету вашего крана и его снятия со списка кранов на сайте.</div>",
+        "title3": "Правила и руководства:",
+        "subtitle3": "<div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Запрещены вредоносные сайты</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Запрещены: вирусы , программы слежения или программы вымогатели.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Запрещены сайты автоматически скачивающие программы без ведома пользователя.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Запрещены сайты перехватывающие управление браузером или изменяющие его настройки.</div><div class=\"form-desc-text\"><strong data-v-232389c4=\"\">Внимание!</strong> Мы оставляем за собой право на отказ в обслуживании сайта на наше усмотрение. Если мы обнаружим установленный вредоносный код или попытки обмана других пользователей , Ваш аккаунт может быть забанен с потерей всех имеющихся на нем средств..</div>"
+      }
+
+    }
+  },
+  "other": {
+    "faq": "Вопрос/ответ (ЧАВО)",
+    "withdraw": "Выплаты",
+    "username": "Пользователь",
+    "name": "Имя",
+    "time": "Время",
+    "type": "Тип",
+    "back": "Назад",
+    "url": "Ссылка",
+    "create": "Создать"
+  },
+  "errors": {}
+}

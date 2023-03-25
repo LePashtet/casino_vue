@@ -1,0 +1,39 @@
+
+@mixin flexMain($align: inherit, $justify: space-between, $direction: row ) {
+  display: flex;
+  align-items: $align;
+  justify-content: $justify;
+  flex-direction: $direction;
+}
+
+@mixin flexFlow($wrap: wrap, $direction: row) {
+  flex-wrap: $wrap;
+  flex-direction: $direction;
+}
+
+.flex {
+  @include flexMain(center);
+}
+
+.f-space-between {
+  justify-content: space-between;
+}
+
+.f-space-around {
+  justify-content: space-around;
+}
+
+.f-wrap {
+  flex-wrap: wrap;
+}
+
+.f-nowrap {
+  @include flexFlow(nowrap);
+}
+
+.f-column {
+  @include flexFlow(nowrap, column);
+}
+.relative{
+  position: relative;
+}

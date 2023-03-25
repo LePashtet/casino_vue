@@ -1,0 +1,49 @@
+.create-form {
+  display: flex;
+  margin-top: 40px;
+  padding: 0 40px;
+  > div {
+    width: 50%;
+    text-align: left;
+  }
+  .style-form {
+    padding: 0 10px;
+    .text-counter {
+      font-size: 8px;
+      margin-left: 5px;
+    }
+    textarea {
+      display: block;
+      box-sizing: border-box;
+      //width: 100%;
+      min-width: 290px;
+      min-height: 100px;
+    }
+    input {
+      min-width: 280px;
+    }
+
+    .button {
+      margin-left: 83px;
+    }
+  }
+  .form-desc {
+    padding: 0 10px;
+    font-size: 12px;
+    .form-desc-title {
+      font-weight: bold;
+      margin-top: 10px;
+      font-size: 16px;
+    }
+    .form-desc-text {
+      padding-left: 5px;
+      color: $color-blue;
+      > svg {
+        font-size: 6px;
+        color: $color-red;
+        vertical-align: middle;
+        margin: 0 5px;
+      }
+    }
+  }
+}

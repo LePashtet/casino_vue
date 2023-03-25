@@ -1,0 +1,444 @@
+{
+  "header": {
+    "home": "Home",
+    "service": "Our services",
+    "owner": "Site owner",
+    "list": "Site list",
+    "stats": "Stats",
+    "news": "News",
+    "signin": "Sign In"
+  },
+  "footer": {
+    "start": "How do I start?",
+    "contact": "Contact us",
+    "lang": "Language",
+    "menu": {
+      "faq": "FAQ",
+      "terms": "Terms of service",
+      "home": "Home",
+      "privacy": "Privacy",
+      "links": "Useful links"
+    },
+    "rights": "All Rights Reserved."
+  },
+  "menu":{
+    "lobby": "Lobby",
+    "games": "Games",
+    "earning": "Earning",
+    "exchange": "Exchange",
+    "affiliates": "Affiliates",
+    "statistics": "Statistics",
+    "owner": "Site owner",
+    "settings": "Settings",
+    "help": "Help"
+  },
+  "models": {
+    "auth": {
+      "login": "Login",
+      "email": "Email",
+      "password": "Password",
+      "signupAsk": "Don't have an account yet?",
+      "signup": "Sign up",
+      "forgot": "Forgot login/password?",
+      "registration": "Registration",
+      "as": "Logged as",
+      "logout": "Logout",
+      "ofAcc": "of account?",
+      "logOn": "Login on"
+    }
+  },
+  "home": {
+    "logo": "<span>Earn, send</span> crypto, and <span>keep</span> them.",
+    "mainBlocks": {
+      "safely": "Safely",
+      "safelyText": "Is the <span>protection</span> of internet-connected systems, including hardware, software and data, <span>from cyberattacks.</span>",
+      "decentralized" : "Decentralized",
+      "decentralizedText": "Is the process by <span>which the activities</span> of an organization, particularly those regarding planning making.",
+      "cloud": "Cloud Technology",
+      "cloudText": "Is the process by <span>which the activities</span> of an organization, particularly those regarding planning making."
+    },
+    "signin": "Sign In",
+    "signup": "Sign Up Now!",
+    "online": {
+      "title": "We staying <span>online</span>",
+      "days": "Days",
+      "hours": "Hours",
+      "mins": "Minute",
+      "sec": "Second",
+      "totalPaid": "total paid"
+    },
+    "why": {
+      "title": "Why <span>Freebitme?</span>",
+      "wallet": "Wallet",
+      "walletText": "Is the <span>protection</span> of internet-connected systems, including hardware, software and data, <span>from cyberattacks.</span>"
+    },
+    "features": {
+      "title": "<span>Freebitme</span><br>Awesome Features",
+      "block1Title": "Chat <span>&amp; Advertising</span>",
+      "block1Text": "There are many variations of passages of <span>Lorem Ipsum</span> available, but the majority have suffered alteration in some form, by <span>injected humour</span>, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything <span>embarrassing.</span>"
+    },
+    "crypto": "<span>Accepted</span> cryptocurrencies",
+    "tgJoin": "Join Telegram Chat",
+    "getStart": {
+      "title": "Ready to Get Started?<br><span>Getting Started!</span>",
+      "text": "Is the <span>protection</span> of internet-connected systems, including hardware, software and data, from cyberattacks."
+    }
+  },
+  "siteList": {
+    "title": "SITE LIST",
+    "table": {
+      "name": "Name",
+      "added": "Added",
+      "reward": "Reward",
+      "timer": "Timer",
+      "paid": "Paid",
+      "today": "today",
+      "week": "week",
+      "total": "total",
+      "user": "Users",
+      "health": "Health",
+      "rating": "Rating",
+      "dateAdd": "Date added",
+      "siteRate": "Site rating",
+      "userRate": "users ratings",
+      "reviews": "Reviews",
+      "comment": "Leave a commentary",
+      "moderation": "The review is under moderation",
+      "empty": "The sites are not existed",
+      "noReviews": "This site has no reviews yet",
+      "site": "SITE",
+      "star": "star"
+    },
+    "review": {
+      "new": "Create new review",
+      "submitted": "Your review has been submitted successfully"
+
+    }
+  },
+  "news": {
+    "title": "NEWS",
+    "more": "Read more"
+  },
+  "chat": {
+    "connect": "Reconnecting to the server",
+    "input": "Write here...",
+    "adv": "ADVERTISING BY",
+    "buy": "Buy <span>chat ADS</span>",
+    "billing": "Select billing method:",
+    "characters": "characters",
+    "ordered": "Advertising successfully ordered",
+    "adlink": "Enter AD link"
+  },
+  "lobby": {
+    "title": "Dashboard",
+    "accDet": "Account details",
+    "balanceDet": "Balance details",
+    "account": "Account"
+  },
+  "games": {
+    "title": "Games",
+    "players": "Players In",
+    "jackpot": "Jackpot",
+    "bankroll": "Bankroll",
+    "list": "Games List",
+    "coinTitle": "Coinflip!",
+    "coinSub": "Flip a coin and win!",
+    "rpsTitle": "Rock-Paper-Scissors!",
+    "rpsSub": "Shake you hand and be a hero!",
+    "available": "available"
+  },
+  "earning": {
+    "title": "Earning",
+    "menu": {
+      "paidAds": "Paid ADS",
+      "offer": "Offerwalls",
+      "faucets": "Faucets"
+    },
+    "paidAds": {
+      "claim": "Manual claim",
+      "manage": "Manage ADs",
+      "view": "View",
+      "adv": "Adverts",
+      "campaigns": "Campaigns",
+      "newAdv": "New advert",
+      "faq": {
+        "users": "Users",
+        "advertisers": "Advertisers",
+        "question": "Q",
+        "answer": "A",
+        "q1": {
+          "index": "How to earn crypto with the PTC ads?",
+          "answer": "Very easy, simply follow these steps:",
+          "one": "Go to the Earning tab and switch to the Paid ADS section. The paid ads available to you will be shown with the timers on them, click the one you want to visit.",
+          "two": "Wait for the website to load and the timer to start counting down. Please, consider checking the content of the service offered out while the timer is running.",
+          "three": "The window with the ad must be in focus for the length of the visit.",
+          "four": "After the timer counts down, complete the captcha to earn the reward.",
+          "five": "Once you have received your tokens, feel free to either close the ad and return to the hub or continue to browse the advertised site."
+        },
+        "q2": {
+          "index": "Can I get paid for viewing ads with cryptocurrencies or just with the Freebitme tokens?",
+          "answer": "Freebitme tokens only, you can exchange Freebitme tokens any time to any cryptocurrency supported, here: exchange",
+          "exchange": "exchange"
+        },
+        "q3": {
+          "index": "The website is blank when I clicked on an ad and the timer is not starting, what to do?",
+          "answer": "Wait for the website to load and for the timer to count down and collect your reward. Then report it to us by clicking the report button or by opening a ticket."
+        },
+        "q4": {
+          "index": "Why does the ad timer countdown sometimes take longer than it says?",
+          "answer": "The ad timer won't not start until the ad page has fully loaded."
+        },
+        "q5": {
+          "index": "How do I know I got credited for viewing an ad?",
+          "answer": "A green notification panel will appear at the right top corner of the page showing your reward in Freebitme for viewing this ad."
+        },
+        "q6": {
+          "index": "Can I pay for ads with cryptocurrencies or just with the Freebitme tokens?",
+          "answer": "Freebitme tokens only, you can exchange Freebitme tokens any time to any cryptocurrency supported here: ",
+          "exchange": "exchange"
+        },
+        "q7": {
+          "index": "How do I advertise on the Paid ads section?",
+          "answer": "Very easy, simply follow these steps:",
+          "one": "Go to the Earning tab and switch to the Paid ADS section. Click on the Manage ads tab.Go to the Campaigns tab and click the New campaign button.",
+          "two": "Please, read carefully the instructions and guidelines on the right side of the page. Rule violations could result in your ad not approved and even your account being banned.",
+          "three": "Fill out the required information, including the name of your ad (only visible to you) ad URL, ad title, ad description...",
+          "four": "Click Create button - your ad campaign will be submitted for approval. Your ad campaign will be approved within 24 hours, usually much faster than that",
+          "five": "After your ad campaign has been approved, you can create new and manage old ads on the Adverts tab.",
+          "six": "Go to the Adverts tab, click New Advert, choose the campaign you want to advertise from the drop down menu (if you have more than one) and fill out the required info: the number of views you want to purchase, view duration, the time period your ad will be shown to a user: once a 24 hour, once 48 hrs or only once, choose geotargeting from the options listed and pick the features to make your ad stand out.",
+          "seven": "Click create and your ad is now live. You can pause/unpause it and view statistics of any of your ad on the Adverts page."
+        },
+        "q8": {
+          "index": "How long does it take for my ad campaign to be approved?",
+          "answer": "Your ad should be approved or rejected within 24 hours, usually much faster."
+        },
+        "q9": {
+          "index": "Why was my ad rejected?",
+          "answer": "You either violated the rules or didn't follow the guidelines. Please, make sure you read the rules on the ad campaign creation page carefully."
+        }
+      }
+    },
+    "offerWalls": {
+      "payout": "Payout",
+      "curr": "Curr",
+      "status": "Status"
+    }
+  },
+  "exchange": {
+    "title": "Exchange",
+    "balance": "Balance",
+    "history": "History",
+    "noHistory": "No transactions found",
+    "unavailable": "The service is currently unavailable",
+    "success": "Exchange is successful",
+    "loader": "LOADER",
+    "exchangeBtn": "Exchange"
+  },
+  "premium": {
+    "title": "premium",
+    "subtitle": "<p class=\"bold\"><span class=\"color-red\">Get Access</span> To Large number of <br><span class=\"color-red\">discounts</span> on services, <span class=\"color-red\">promotions, and prizes!</span>",
+    "daily": "Daily Premium",
+    "weekly": "Weekly Premium",
+    "monthly": "Monthly Premium",
+    "yearly": "Yearly Premium",
+    "save": "Save up",
+    "day": "per day",
+    "week": "per week",
+    "month": "per month",
+    "year": "per year",
+    "total": "Total Amount",
+    "or": "or",
+    "number": "Number of Subscriptions",
+    "payment": "Select Payment method",
+    "youBuy": "You buy a <span data-v-1aefa0bd=\"\" class=\"gradient-color\"><b data-v-1aefa0bd=\"\">Premium account</b></span>",
+    "valid": "valid until",
+    "buy": "Buy Premium!",
+    "success": "Premium purchased successfully",
+    "premGive": "What does a <span data-v-ec09a2b6=\"\" class=\"color-red\">Premium Account</span> give?",
+    "premGiveSub": "A premium account guarantees you a large number of discounts on services, promotions, and prizes.",
+    "give1": "Reducing the commission in the exchanger <b data-v-ec09a2b6=\"\" class=\"color-red\">-2%</b>",
+    "give2": "<span class=\"color-red\">Increase in Experience Points </span>gained on the site",
+    "give3": "Reducing the <b class=\"color-red\">Minimum Amount</b> that is available for <span class=\"color-red\">Payment from the Account</span>",
+    "give4": "An <b class=\"color-red\">additional icon</b> <b >in the chat that this is a premium player</b>",
+    "give5": "<span class=\"color-red\">Reduced commission</span> on games.",
+    "give6": "<span class=\"color-red\">Discount on order advertising</span> in the click advertising section",
+    "give7": "<span class=\"color-red\">Improved page</span> with taps, ability to sort, search, add a countdown timer",
+    "give8": "<span class=\"color-red\">Discount</span> on buying <b class=\"color-red\">chat ads</b>",
+    "give9": "<span class=\"color-red\">More payout</span> per click ad view",
+    "give10": "<span class=\"color-red\">Highlighting reviews</span> from premium accounts.",
+    "give11": "<span class=\"color-red\">Reducing the minimum amount</span> for sending tips to other players",
+    "give12": "<span class=\"color-red\">Disabling ads</span> on the site",
+    "give13": "<span class=\"color-red\">Increase in payments</span> for the daily bonus."
+  },
+  "affiliates": {
+    "title": "Affiliates",
+    "campaign": "Campaign",
+    "menu": {
+      "dashboard": "Dashboard",
+      "balances": "Balances",
+      "campaigns": "Campaigns",
+      "banners": "Banners",
+      "logs": "Logs",
+      "users": "Users",
+      "hits": "Hits"
+    },
+    "dashboard": {
+      "commission": "Affiliate commissions",
+      "ads": "Paid ADs",
+      "offer": "Offerwalls",
+      "reg": "Registrations",
+      "active": "Users active",
+      "counts": "Paid counts",
+      "count": "Count",
+      "amount": "Amount",
+      "paid": "Paid",
+      "stats": "Statistics",
+      "hits": "Hits/Registrations",
+      "campaign": "Campaign"
+    },
+    "balances": {
+      "withdraw": "Withdraw",
+      "history": "Withdraw history"
+    },
+    "campaigns": {
+      "title": "Affiliate campaigns",
+      "new": "New campaign",
+      "link": "Link",
+      "create": "Create date",
+      "noLogs": "No logs found"
+    },
+    "banners": {
+      "title": "Referral links",
+      "default": "default",
+      "links": "Links",
+      "banners": "Banners"
+    },
+    "logs": {
+      "title": "Affiliate logs",
+      "percent": "Percent",
+      "noLogs": "No logs found"
+    },
+    "users": {
+      "title": "Affiliate user",
+      "noUsers": "No users found"
+    },
+    "hits": {
+      "title": "Affiliate hits",
+      "domain": "Domain",
+      "country": "Country"
+    }
+  },
+  "statistics": {
+    "title": "statistics",
+    "menu": {
+      "withdrawal": "WITHDRAWAL",
+      "deposit": "DEPOSIT",
+      "premium": "PREMIUM",
+      "paidAds": "PAID ADs"
+    },
+    "curr": "Curr",
+    "status": "Status",
+    "noLogs": "No logs found",
+    "payin": "Payin",
+    "noTransact": "No transactions found"
+  },
+  "siteowner": {
+    "title": "Site owner",
+    "type": "Select service type",
+    "create": "Create a new service",
+    "balance": "balance",
+    "type2": "type",
+    "success1": "Your service was archived successfully",
+    "success2": "The remaining service balance was credited to the main balance",
+    "service1": {
+      "title": "Create a Hostobit faucet",
+      "subtitle": "the fastest ang the easiest way to start a faucet"
+    },
+    "service2": {
+      "title": "Create a faucet",
+      "subtitle": "create a faucet using a faucet script other than Hostobit",
+      "claim": "Claim timer seconds",
+      "select": "Select current",
+      "reward": "Reward",
+      "listing": "Listing on Freebitme",
+      "title2": "How does it work?",
+      "subtitle2": "<div  class=\"form-desc-text\">Here you can create a faucet using any of the faucet scripts you like.</div><div  class=\"form-desc-text\">Follow these steps:</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Fill in the faucet name, the faucet's URL and claim timer in seconds fields.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Select your faucet's currency, enter the claim reward (please, input the minimal available claim reward if your faucet supports multiple rewards or jackpots) and choose if you want your faucet to be listed on Freebitme or not</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Click Create button and you will be given an API key which you can use to connect your faucet to Freebitme.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Now you can go back to the Site owner tab and top up/withdraw funds, check the stats, edit or archive your faucet.</div><div  class=\"form-desc-text\">Please, read carefully the instructions and guidelines on the right side of the page. Rule violations could result in your faucet refused service and/or removed from the faucet list.</div>",
+      "title3": "Rules",
+      "subtitle3": "<div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No malicious websites.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No malware, viruses, spyware or ransomware.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No unsolicited or automated downloads.</div><div  class=\"form-desc-text\"><svg  aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path  fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No browser locking scripts or other attempts to hijack the browser.</div><div  class=\"form-desc-text\"><strong >Warning!</strong> We reserve the right to refuse service at our discretion. If we detect a malicious code or attempts to defraud the users, your account could be banned with any funds on it forfeit.</div>"
+    },
+    "service3": {
+      "title": "Create another service",
+      "subtitle": "if you want to use our API (and your site is NOT a faucet) this option is for you",
+      "subtitle2": "<div class=\"form-desc-text\">How does it work?</div><div class=\"form-desc-text\">Here you can connect our API to a service/site of your choice.</div><div class=\"form-desc-text\">A good example would be a cryptocurrency game, a banner network or any other site that pays micropayments in cryptocurrencies to multiple users.</div><div class=\"form-desc-text\">To connect your site to our API and start using our hub as the payment gateway, follow these steps:</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Fill in the site's name (only visible to you), the site's URL.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Click Create button and you will be given an API key which you can use to connect your site to Freebitme.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> Now you can go back to the Site owner tab and top up/withdraw funds, check the stats, edit or archive your service/site.</div><div class=\"form-desc-text\">Please, read carefully the instructions and guidelines on the right side of the page. Rule violations could result in your faucet refused service and/or removed from the faucet list.</div>",
+      "title3": "Rules and guidelines:",
+      "subtitle3": "<div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No malicious websites.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No malware, viruses, spyware or ransomware.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No unsolicited or automated downloads.</div><div class=\"form-desc-text\"><svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" class=\"svg-inline--fa fa-circle fa-w-16\"><path fill=\"currentColor\" d=\"M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8z\" class=\"\"></path></svg> No browser locking scripts or other attempts to hijack the browser.</div><div class=\"form-desc-text\"><strong data-v-232389c4=\"\">Warning!</strong> We reserve the right to refuse service at our discretion. If we detect a malicious code or attempts to defraud the users, your account could be banned with any funds on it forfeit.</div>"
+    },
+    "empty": "You don't have any services",
+    "api": "API key",
+    "useKey": "You can use the service key below on your site"
+
+  },
+  "settings": {
+    "menu": {
+      "profile": "PROFILE",
+      "session": "SESSION"
+    },
+    "title": "Settings",
+    "user": "User details",
+    "mail": "Mailing",
+    "mailRecive": "Receive marketing emails",
+    "changePass": "Change password",
+    "oldPass": "Old password",
+    "newPass": "New password",
+    "repeatPass":"Repeat password",
+    "change": "Change",
+    "twoFactor": "Two-Factor authentication",
+    "scan": "Scan or copy this QR-code to your authenticator app,then input the code returned below",
+    "close": "ClOSE SESSION",
+    "current": "CURRENT SESSION",
+    "logout": "Logs out all devices except for this one"
+  },
+  "helpdesk": {
+    "notickets": "You don't have any help tickets",
+    "create": "Create a new ticket",
+    "status": "status",
+    "subject": "Subject",
+    "ticket": "Ticket",
+    "reply": "Reply",
+    "close": "Close ticket",
+    "closed": "Ticket closed",
+    "createModal": {
+      "submitted": "Your review has been successfully submitted for moderation",
+      "submit": "Submit my ticket",
+      "subj": "Enter subject",
+      "ticketText": "Enter ticket text"
+    }
+  },
+  "other": {
+    "faq": "FAQ",
+    "withdraw": "Withdraw",
+    "username": "Username",
+    "name": "Name",
+    "link": "Link",
+    "time": "Time",
+    "type": "Type",
+    "back": "Back",
+    "url": "URL",
+    "create": "Create",
+    "all": "All",
+    "pay": "Pay",
+    "free": "Free",
+    "amount": "Amount",
+    "address": "Address",
+    "premium": "Premium",
+    "hostobit": "Hostobit",
+    "user": "Users",
+    "duration": "duration",
+    "reward": "Reward",
+    "service": "Service",
+    "success": "successfully",
+    "send": "Send",
+    "characters": "characters"
+  },
+  "errors": {}
+}

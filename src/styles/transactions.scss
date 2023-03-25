@@ -1,0 +1,180 @@
+.transactions {
+  .transaction-title {
+    text-align: left;
+    color: $color-blue;
+  }
+  .transaction-table {
+    margin: 20px 0;
+    @media screen and (max-width: 1023px){
+      overflow-x:auto;
+
+    }
+    table {
+      table-layout: fixed;
+      border-collapse:collapse;
+
+      @media screen and (max-width: 1023px){
+        min-width: 1024px;
+      }
+      thead {
+        tr {
+          td {
+            font-weight: bold;
+            &.select-types {
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              .type-selector {
+
+                select {
+                  line-height: 1;
+                  padding: .2em .8em .1em .2em;
+                  border-radius: 4px;
+                  background-size: .5em auto, 100%;
+                  background-position: right .3em top 50%, 0 0;
+                }
+              }
+            }
+          }
+        }
+      }
+      .items {
+
+        tr {
+          height: 100%;
+        }
+        td {
+          height: 100%;
+          width: 100%;
+          //padding: 5px 0;
+          padding: 0;
+
+          > div {
+            height: calc(100% - 30px);
+            padding: 10px 0;
+            border: 5px solid #2b2d5e;
+            border-right-width: 0;
+            border-left-width: 0;
+            background-color: $color-blue-dark;
+            transition: .3s ease;
+
+            &.color {
+              color: $color-blue;
+            }
+            &.icons-left {
+              text-align: left;
+              padding-left: 10px;
+              display: flex;
+              align-items: center;
+              > span {
+                &:first-of-type {
+                  display: flex;
+                  align-items: center;
+                  margin-right: 10px;
+                }
+              }
+            }
+            .desc {
+              color: $color-blue;
+              font-size: 12px;
+              margin-right: 3px;
+            }
+            &.rating {
+              display: flex;
+              justify-content: center;
+              align-items: center;
+
+              .rating-wrap {
+                display: flex;
+                .rating-icon {
+                  display: flex;
+                  align-items: center;
+                  color: $color-blue;
+                  svg[data-prefix=fas] {
+                    color: #a2a5ea;
+                  }
+                }
+              }
+              .rating-votes {
+                //align-self: flex-end;
+                font-size: 10px;
+                color: $color-blue;
+                margin-left: 5px;
+              }
+            }
+          }
+
+
+
+          .edit-buttons {
+            > a {
+              //display: inline-flex;
+              //justify-content: center;
+              //align-items: center;
+              display: inline-block;
+              min-height: 14px;
+              margin: 0 5px;
+              //&:first-of-type {
+              //  margin-right: 5px;
+              //}
+              &.button-stats {
+                //margin-bottom: -4px;
+              }
+              &:hover {
+                color: $color-red;
+              }
+            }
+          }
+
+          &:first-of-type div {
+            border-top-left-radius: 12px;
+            border-bottom-left-radius: 12px;
+          }
+          &:last-of-type div {
+            border-top-right-radius: 12px;
+            border-bottom-right-radius: 12px;
+          }
+        }
+
+        &.items-border {
+          td {
+            > div {
+              position: relative;
+              &:after {
+                content: ' ';
+                position: absolute;
+                top: 30%;
+                bottom: 30%;
+                right: 0;
+                width: 1px;
+                background-color: $color-blue;
+              }
+            }
+            &:last-of-type {
+              > div {
+                &:after {
+                  display: none;
+                }
+              }
+            }
+          }
+        }
+        &.items-link {
+          cursor: pointer;
+          tr {
+            &:hover {
+              td {
+                > div {
+                  background-color: #3e3e7d;
+                }
+              }
+            }
+          }
+        }
+      }
+      &.full-width {
+        width: 100%;
+      }
+    }
+  }
+}
